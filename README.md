@@ -9,7 +9,7 @@ Kata: a Japanese word, meaning literally: "form" (型 or 形):
 ## Problem Description
 - Deposit into the Account
 - Withdraw from the Account
-- Withdraw from the Account
+- Print the account statement
 
 Statement should have following format: 
 
